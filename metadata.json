@@ -1,0 +1,7 @@
+{
+  "name": "MotionForge AI",
+  "description": "An AI-powered legal document drafting assistant for Nevada state and federal courts. Generate, edit, and analyze legal motions with the power of Gemini, featuring jurisdiction-aware templates, real-time rule guidance, and multimodal capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
